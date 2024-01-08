@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B17EF7&random=false&width=435&lines=I'M+SONAL+MANWAR+!)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="200" src= "https://github.com/Sonalmanwar/Sonalmanwar/assets/74189923/f1a8afb4-1dff-4c5c-98a6-23503a16301d">
+### completed Gradution from BE-IT
 
+<img align="right" alt="coding" width="200" src= "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me: sonalmanwar20@gmail.com
