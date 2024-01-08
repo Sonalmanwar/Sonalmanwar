@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C6&random=false&width=435&lines=HEY+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78CE6&random=false&width=435&lines=I'M+SONAL+MANWAR+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B17EF7&random=false&width=435&lines=I'M+SONAL+MANWAR+!)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="200" src= "https://github.com/Sonalmanwar/Sonalmanwar/assets/74189923/f1a8afb4-1dff-4c5c-98a6-23503a16301d">
 
