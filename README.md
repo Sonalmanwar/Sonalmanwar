@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalmanwar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<img id="visitors" src="https://visitcount.itsvg.in/api/test?icon=5&amp;color=11" alt="" class="md:ml-36 mb-4">
+
 
 
 
